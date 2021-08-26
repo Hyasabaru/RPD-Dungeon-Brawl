@@ -4,4 +4,6 @@
 A mod that adds unbalanced mobs that will annihilate you :)
 
 # Mod Count: 
-Only [1] Mobs added soo far
+Only [2] Mobs added soo far
+- Toxic Rat
+- Trainee Tengu
