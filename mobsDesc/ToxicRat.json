@@ -1,0 +1,49 @@
+{
+
+"defenseSkill"	: 2,"attackSkill"	: 4,
+
+"exp"			: 2,
+
+"maxLvl"		: 2,
+
+"dmgMin"		: 3,
+
+"dmgMax"		: 7,
+
+"dr"			: 0,
+
+"baseSpeed"		: 1,
+
+"attackDelay"	: 1,
+
+"ht"			: 20,
+
+"hp": 20,
+
+"viewDistance"	: 5,
+
+"loot": {"kind":"RottenMeat"},
+
+"lootChance": 1,
+
+"name"			:"Toxic Rat",
+
+"name_objective":"Toxic Rat",
+
+"description"	:"Leptospirosis",
+
+"gender"		:"masculine",
+
+"spriteDesc"	:"spritesDesc/ToxicRat.json",
+
+"attackRange"	: 1,
+
+"walkingType"	: "NORMAL",
+
+"canBePet"		: false,
+
+"flying"		: false,
+
+"friendly"		: false
+
+}
