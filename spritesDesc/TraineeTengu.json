@@ -1,5 +1,5 @@
 {
-   "texture" : "tengu.png",
+   "texture" : "custom/TraineeTengu.png",
    "width" : 14,
    "height" : 16,
    "idle" : { "fps" : 2, "looped" : true, "frames" : [0, 0, 0, 1]  },
